@@ -1,4 +1,4 @@
-Salman Khan | Senior Video Editor & Graphic Designer
+Salman Khan | Senior Video Editor
 
 Welcome to the repository for my personal portfolio website!
 
